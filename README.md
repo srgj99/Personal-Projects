@@ -1,1 +1,3 @@
-# Personal-Projects
+# Simple-Weather
+
+API: Open Weather
