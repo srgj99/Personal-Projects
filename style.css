@@ -57,6 +57,7 @@ body {
   .weather-card {
     flex-wrap: wrap;
     max-width: 300px;
+    flex-direction: column;
   }
 
   .weather-stats {
